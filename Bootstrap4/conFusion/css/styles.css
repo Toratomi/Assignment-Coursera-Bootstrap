@@ -12,7 +12,7 @@
 }
 
 .footer{
-    background-color: #72d3e4;
+    background-color: #81b0e6;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -20,7 +20,7 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #72d3e4;
+    background: #81b0e6;
     color:floralwhite;
 }
 
@@ -36,7 +36,7 @@ body{
 }
 
 .navbar-dark{
-    background-color: #143e6e;
+    background-color: #1a579c;
 }
 
 .tab-content {
@@ -47,7 +47,7 @@ body{
 }
 
 .carousel {
-    background:#143e6e;
+    background:#1a579c;
 }
 
 .carousel-item {
@@ -65,4 +65,17 @@ body{
     right: 0px;
     position: absolute;
     bottom: 0px;
+}
+
+.modal-header {
+    background-color: #1a579c;
+    color:floralwhite;
+}
+
+.close {
+    color:floralwhite;
+}
+
+.modal-body {
+    background-color: #81b0e6;
 }
